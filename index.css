@@ -1,6 +1,6 @@
 body{
     background-color: gray;
-    background-image: linear-gradient(red, orange,  yellow , green, blue, violet, purple);
+    background-image: linear-gradient(violet, indigo, blue, green, yellow, orange, red);
 }
 .box{
     font-size: x-large;
